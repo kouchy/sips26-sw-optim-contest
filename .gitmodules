@@ -1,0 +1,9 @@
+[submodule "lib/c-vector"]
+	path = lib/c-vector
+	url = https://github.com/Mashpoe/c-vector.git
+[submodule "lib/nrc2"]
+	path = lib/nrc2
+	url = https://github.com/alsoc/nrc2.git
+[submodule "lib/ffmpeg-io"]
+	path = lib/ffmpeg-io
+	url = https://github.com/alsoc/ffmpeg-io.git
